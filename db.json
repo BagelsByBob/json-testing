@@ -1,0 +1,72 @@
+{
+ "products": [
+   {
+     "id": 1,
+     "name": "Plain Bagel",
+     "price": 1.99,
+     "description": "The everyman bagel",
+     "type": "a",
+     "ingredients": [
+       "plain"
+     ]
+   },
+   {
+     "id": 2,
+     "name": "Sesame Bagel",
+     "price": 4.99,
+     "description": "Change it up",
+     "type": "a",
+     "ingredients": [
+       "sesame"
+     ]
+   },
+   {
+     "id": 3,
+     "name": "Saurkraut Sandwich",
+     "price": 3.99,
+     "description": "Your breath will stink",
+     "type": "a",
+     "ingredients": [
+       "sesame"
+     ]
+   },
+   {
+     "id": 4,
+     "name": "Small Bagel Box",
+     "price": 12,
+     "description": "For the whole family",
+     "type": "a",
+     "ingredients": [
+       "plain",
+       "plain",
+       "plain",
+       "plain",
+       "plain",
+       "plain",
+       "plain",
+       "plain"
+     ]
+   },
+   {
+     "id": 5,
+     "name": "Small Soda",
+     "price": 1.2,
+     "description": "Drink up",
+     "type": "d"
+   },
+   {
+     "id": 6,
+     "name": "Large Soda",
+     "price": 2,
+     "description": "Drink up even more"
+   },
+   {
+     "id": 7,
+     "name": "Build your Own",
+     "price": 1.99,
+     "description": "Customize it",
+     "type": "b"
+   }
+ ],
+ "restaurants": []
+}
